@@ -1,0 +1,7 @@
+Volkswagen PoloHighline Sedan 2015 15000 190 8,7 3,1 20 DelicateStaff Rope
+Volkswagen PoloHighline Sedan 2015 15000 69 12,3 1,2 30 DelicateStaff Rope
+Ford Transit Sedan 2015 2314 120 12 1,23 12 NotDelicateStaff UberRope
+Volkswagen PoloHighline Sedan 2015 11230 80 32,4 1,4 30 NotDelicateStaff SuperRope
+Ford KugaTitanium Sedan 2015 15230 290 12,3 2 32 NotDelicateStaff Rope
+Volkswagen PoloHighline Sedan 2015 13000 150 75 1,4 45 NotDelicateStaff NotRope
+Volkswagen PoloHighline Sedan 2015 12300 150 6 1,1 23 DelicateStaff Rope

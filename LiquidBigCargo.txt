@@ -1,0 +1,4 @@
+DAB FTGXF102 Track 2018 2600 160 20,5 1,8 40 2 100 LiquidTrailer ChemicalToxicCistern SuperBlower 231
+DAB FTGXF102 Track 2018 2600 160 20,5 1,8 40 2 100 LiquidTrailer WaterCistern UltraBlower 1000
+DAB FTGXF102 Track 2018 2600 160 20,5 1,8 40 2 100 LiquidTrailer OilCistern MegaBlower 1233
+DAB FTGXF102 Track 2018 2600 160 20,5 1,8 40 2 100 LiquidTrailer MilkCistern GoodBlower 2134

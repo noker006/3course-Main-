@@ -1,0 +1,4 @@
+DAB FTGXF102 Track 2018 2600 160 20,5 1,8 40 2 100 FridgeTrailer ImbaFridge 231
+DAB FTGXF102 Track 2018 2600 160 20,5 1,8 40 2 100 FridgeTrailer ImbaFridge 320
+DAB FTGXF102 Track 2018 2600 160 20,5 1,8 40 2 100 FridgeTrailer ImbaFridge 10214
+DAB FTGXF102 Track 2018 2600 160 20,5 1,8 40 2 100 FridgeTrailer ImbaFridge 1023
